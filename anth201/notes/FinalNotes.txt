@@ -1,0 +1,1229 @@
+--------------------------------------------------------
+
+
+
+================      feb24 (HUMAN ORIGINS)      ===================
+
+
+
+Hominin (Hominid)
+ - Primates of the family Hominidae
+ - Includes modern humans, earlier human subspecies and their direct ancestors
+    essentially, all species that emerged after the Pan-Homo divergence ca. 7 mya
+ - Typically identified by bipedal adaptations
+
+Bidpedalism
+ - Upright posture and gait; opposed to quadrupedalism or knuckle-walking
+ - Adaptation to tropical (savanna) environments
+    Increase in time spent on the ground
+    Long-distance travel; endurance
+ - Occurs sometime after 10 mya; certainly by 4 mya
+
+
+                                Primates
+                                    |
+                    antropoids <----------> Prosimians
+                        |-----|
+                       apes   |---> monkeys
+                        |
+                    Hominins
+                        | 
+     Sahelanthropus <---|---> Ardipithecus
+                        |
+    Australopithecus <------> Homo
+
+
+
+Sahelanthropus tchadensis
+ - aka "Toumai" - mostly complete cranium
+ - Discovered in west-central Chad, 2001
+ - Estimated Age - 7 to 6 mya (probably closer to 7 mya)
+ - Small brain (320-380 cubic centimetres(cc) ); comparable to chimpanzees
+ - Occipital (back) of cranium looks like chimpanzee
+ - Frontal (facial structure and dental arcade) - more like Australopithecine ca. 1.75 mya
+ - No post-cranial fragments
+    Bipedalism suggested by the anterior (as opposed to posterior) position of the foramen magnum
+ - Could be ancestor of Ardipithecus
+
+Australopithecus afarensis
+ - Likely emerged ca. 4 mya in East Africa
+ - Best known specimen - "Lucy"; remarkably complete
+ - Discovered by Donald Johanson in 1974, Afar region of Ethiopia
+ - Dated to ca. 3.2 mya
+ - Height: 1.2 m (4 ft); Female, 19-21 years old
+ - Would have been powerful with a stocky, muscular build
+ - Fully bipedal
+ - Curved arms and fingers associated with earlier tree climbers
+ - Other notable finds:
+    Footprints in volcanic ash at Laetoli in Tanzania by Mary Leakey in 1978
+    Dated to 3.6 mya
+    Confirms bipedalism in A. afarensis
+    Notably... bipedalism predates tool making and large cranial capacity
+
+Split
+ - ca. 3 mya, the descendents of A. afarensis split into two distinct lines
+    Gracile Line - A. africanus, A. garhi
+     - A. Africanus found in South Africa; A. garhi in East Africa
+    Robust Line - A. robustus, A. boisei,
+     - Found in both South Africa and East Africa
+ - There are likely other (as yet unidentified) lines
+
+Australopithecus garhi
+ - Discovered in the Afar region of Ethiopia, 1996
+ - Dated to ca. 2 mya
+ - Height: 1.46 m (4ft 10in); "chimp-like" prognathism; cranial capacity ~400-500 cc
+ - May have been the first to butcher animals
+    if so, A. garhi would be the earliest tool user
+
+Robust Australopithecines
+ - South Africa - A. robustus fossils first found at Swartkrans by Robert Broom in 1948
+ - East Africa - A. bosei fossils found by Mary Leakey in the Olduvai Gorge region of Tanzania in 1959
+ - Dated to between 3 and 1 mya
+ - Heavily-built, with small brains (~ 500 cc) and large teeth
+    consistent with a diet based on fibrous plant foods
+ - Sagittal crest indicates string jaw muscles
+    present in large apes, but not in A. Africanus or Homo
+
+Adaptive Radiation
+ - Theory used to understand how hominin species can overlap in the fossil record
+ - Refers to the diversification of a species as it adapts to different ecological niches
+    First radiation: bipdal apes which lived in the more arid regions of Africa
+    Two later radiations (presumably out of A. afarensis ca. 3 mya) gave rise to the robust line of Australopithecines and early Homo
+
+Homo habilis
+ - "Handy person" - assumed tool-making abilities
+ - First discovered by Louis and Mary Leakey in Bed 1 at Olduvai Gorge, Tanzania, in 1960
+ - Decrease in prognathism; higher, rounder cranium
+ - Increase in cranial capacity: 600-700 cc
+    Thought to correlate with capacity to make stone tools, better exploit landscape
+ - Omnivorous
+ - Biped, but retained ability to climb trees
+    Similar lengths in humeri/femora
+    Similar to chimpanzees, but not like us
+ - H. habilis may have spent a great deal of time in wooded environments
+
+Overall Biological Trends
+ - Influenced by shift in the mode of locomotion from quadrupedalism to bipedalism
+ - Major changes:
+    Increased cranial capacity
+    Decreased prognathism
+    Shape of Pelvis
+     - Shortened and broadened illium (section of pelvic girdle above hip socket)
+     - Provides for complex muscle attachments needed to maintain balance while walking
+ - Foramen Magnum
+    Back of cranium - quadrupedal locomotion (e.g. apes)
+    Closer to face - bipedal locomotion (e.g. humans)
+     - cranium of humans is balanced on top of the spinal column
+ - Dental Arcade
+    Tied to decrease in prognathism
+    Chimpanzees have a narrow, U-shaped arcade with elongated canines
+    A. Afarensis has an intermediate V-shaped arcade
+    Modern humans have a wider, parabolic arcade
+
+Origins of Human Culture
+ - We see with Homo habilis, for the first time, evidence of learned behaviour in the form of:
+    Tool Use (the Oldowan Tool Tradition)
+    Subsistence / Settlement practices (home bases)
+    Social Organization
+
+Early Tool Use: The Oldowan
+ - Earliest (?) "human" technology - the Oldowan
+    Beginning of the Lower Paleolithic Period
+ - Simple tools; East Africa (Olduvai Gorge), ca. 2.5 mya
+    Coincides with the emergence of H. habilis
+ - Consists of large pebble choppers with flakes removed at one end
+    Flakes could have been used for a variety of tasks
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      feb29 (HOMO ERECTUS)      ===================
+
+
+
+Homo erectus
+ - Transition to more advanced hominin forms, i.e., H. ergaster (?) and H. erectus ca. 1.9 mya
+    ca. 1.5 mya: 5 or 6 extant hominin species
+    ca. 1 mya: onlly H. ergaster and H. erectus
+ - Transition coincides, roughly with the start of the Pleistocene
+
+
+The Pleistocene
+ - Geological 'epoch' or time period
+    aka the Ice Age; ca. 2.6 mya - 12,000 BP
+ - Characterized by cyclical cold (glacial) and warm (interglacial) climatic conditions
+ - During glacial maxima, 30% of the earth's surface covered by ice sheets
+ - On the ice sheets:
+    Several kilometres thick
+     - Major geomorphological consequences
+    Huge volume of water tied up
+     - Sea level drops in the order of 100-200 metres
+     - Consequence: littoral sites now submerged
+     - Consequence: less rainfall, desserts drier & more expansive
+
+
+Homo erectus
+ - Likely evolved from H. habilis
+    trasitional specimens yet to be documented
+ - Some consider 'African' sp. to be H. ergaster
+ - Earliest forms come from East Africa
+    ca. 1.8 mya, Lake Turkana, northern Kenya
+ - Anatomical traits (crania)
+    heavy brow ridges (supraorbital torus)
+    larger, more orthognathous face (compared to H. habilis)
+    high forehead (compared to Australopithecines)
+    long, low braincase; approx. 700-900 cc
+ - Anatomical traits (post-crania)
+    shorter arms, longer legs (terrestrial existence)
+ - Emerged out of (same as?) H. ergaster
+    European/East Asian form; subject of debate
+ - Earliest specimens found in East Africa
+    ca. 1.9 mya - 200,000 BP
+    ca. 1.6 mya; fire, Swartkrans (South Africa)
+ - First hominin to leave Africa
+    adapted to a number of environments, e.g. Europe; SE Asia by 1.8 mya!
+ - How did they leave Africa?
+    Sahara Pump Theory
+     - desertification during the Pleistocene created a land bridge between NE Africa and the Levant
+     - H. erectus may have followed herbivores (e.g., hippo, elephant) and carnivores (e.g., lion, leopard, hyena) across the Arabian peninsula
+
+Homo erectus... in Europe
+ - Dmanisi, Georgia
+    dated to 1.8 mya (earliest outside of Africa)
+    five Homo erectus skulls found in cave site
+    Skull 5 (D4500), found in 2005, most complete
+     - cranial capacity: 546 cc (small, like Australopithecus) but other cranial features resemble erectus
+ - In addition to these five skulls there is a number of tools(choppers and flakes)
+
+Homo erectus... in Asia
+ - Trinil area of Java (Java man)
+ - 1.8 mya - 600,000 years ago
+ - Zhoukoudian, China
+    Limestone quarry; cave
+    Datedto between 500,000 - 200,000 BP
+    numerous specimens found in association with tools and animal bones; poss. carnivore activity
+ - Gradual increase in cranial capacity
+    900cc at 600,000 ya; 1100cc by 200,000 ya
+
+
+General Anatomical Trends
+ - Post-cranial skeleton essentially fully modern; cranial developments...
+    endocranial volume: 800-1100 cc
+    pronounced brow ridges
+    decreased prognathiusm (orthognathous face)
+    smaller teeth
+    movement of foramen magnum
+
+
+Lifeways
+ - Regional economies and toolkits (Africa/Europe vs. SE Asia)
+ - Varied in connection with:
+    biodiversity
+    availability of tool-making materials
+
+
+Technology
+ - Increased refinement and diversity through time
+ - Earliest wooden artifacts at Schoningen in Germany, 400 kya
+ - Oldowan technology gives way to Acheulian by 1.5 mya
+
+
+The Acheulian Tradition
+ - 1.5 mya to ca. 60,000 BP (still Lower Paleolithic)
+ - Africa, Western Europe and SW Asia
+ - Choppers, flake tools, cleavers and hand axes
+    regional variability
+
+Acheulian Handaxe
+ - chipped stone tool 7-30 cm in length, 2+ kg
+ - Prepared core technology
+    evidence of skill (knapping techniques)
+ - Symmetry around long axis
+ - Bifacially worked, multipurpose tools
+    woodworking, scraping skins, butchery
+    recyclable into other tools
+
+
+Evolution of the Mind?
+ - Increase in cognitive faculties suggested by:
+    Design 'template', e.g. symmetry
+    Sense of proportion
+    Understanding of fracture mechanics
+    Use of multiple fabricators
+    Rotation of objective piece
+    Standardization (in some areas)
+
+
+Increased Diversity
+ - Acheulian hand axes
+    variable morphology in most areas
+ - Cleavers
+ - Bamboo tools (SE Asia)
+
+
+Hunting Practices
+ - More sophisticated
+    required co-ordination and co-operation
+ - Reflect an increase in social organization
+ - Evidence
+    Boxgrove, UK
+    Ambrona and Torralba, Spain
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      mar2 (NEANDERTHALS)      ===================
+
+
+
+Archaic Homo Sapiens
+
+ - Evolved out of H. erectus in Africa, Europe, and Asia, ca. 600-130 kya
+ - Several (general) anatomical advances
+    larger brain capacity (~1200cc)
+    steeper foreheads; rear of cranium more rounded
+    less robust
+    more orthognathous faces; smaller molar teeth
+ - Distinguished from Homo sapiens sapiens by:
+    thicker, wider skull
+    lack of defined chin
+    prominent brow ridges
+ - these trends evident at Kabwe (aka Broken Hill 1) in Zambia
+    found in mine, 1921
+    cranium + several post-cranial elements
+    ca. 300-125 kya
+    cranial capacity: 1280cc
+    robust; note pronounced brow ridges
+ - these trends are also found in Europe and East Asia
+ - European specimens appear somehwat more 'robust' than those from Asia (polytypic differences)
+    trend toward 'classic' Neanderthal form
+    in Europe, AHS considered antecedents of Neanderthals (aka Homo heidelbergensis)
+ - Evident at site of "Sima de los Huesos" (Pit of Bones) or Atapuerca, in Spain
+    cave site, ca. 350-300 kya
+    28 skeletons
+    intentional burials or natural processes?
+
+
+Neanderthals
+ - Emerge ca. 130 kya; last until roughly 30 kya
+ - Flourished in Europe (particularly western Europe) and SW Asia
+    differences (between Neanderthals and AMHs) less pronounced around eastern Mediterranean
+ - Anatomical Features
+    heavily-muscled overall e.g., bowing in ulna/radius and femur
+    wide and broad; stood roughly 150cm / 5ft tall
+     - adaptation to cold
+ - endocranial volume: 1300-1600 cc
+ - Anatomical Features
+    relatively short forearms
+    broad hands and feet
+    bun-shaped skull (rounded, low in profile + occipital ...)
+
+
+Neanderthal DNA
+ - Neanderthal mtDNA extracted and compared to 994 modern human lineages
+ - Hypervariable region 1 (of DNA) shows generational change
+    more dissimilar = more distant the relation
+ - In hypervariable region 1 (of DNA) difference in 27 or 28 'base pairs'
+    difference among modern human lineages
+     - ~8 base pairs
+    difference between humans and chimps
+     - 55 base pairs
+ - If humans and chimps diverged ca. 4-5 mya, humans diverged from Neanderthals between ca. 550-690 kya
+ - Suggests Neanderthals were a 'side-branch' of human evolution
+    we did not descend from them (we replaced them)
+    ...but did we interbreed with them?
+
+
+Neanderthal-Human Interbreeding
+ - Neanderthal Genome Project
+    Svante Paabo, Max Planck Evolutionary Institute
+ - Sequenced 3.2 billion base pairs
+ - Findings (published in Science, May 2010)
+    genetic contribution to non-African modern humans ranges from 1% to 4%
+ - so, there likely was interbreeding (though still considered contentious)
+ - Interbreeding likely took place in SW Asia (Levant) before Homo sapiens migrated to Europe
+
+
+Neanderthal Tool Technology: The Mousterian
+ - Associated with the Middle Paleolithic
+ - Name given to stone tool technology associated with the Neanderthals of Eurasia between 100 and 30 kya
+ - Named after a prominent site in SW France (Le Moustier)
+ - Flake-based technology (retouched flakes) though formal tools are also found
+ - Also, evidence of composite tools (tools with more than one component, e.g., point, shaft, and binding for spear)
+ - A hallmark of the Mousterian is use of the Levallois technique (a prepared core technology)
+ - Involves carefully preparing the core so as to outline the finished tool before it is actually detached
+ - Requires skill and planning
+
+
+Neanderthal Burial Practices
+ - Evidence of intentional burial / altruism
+ - e.g. La Ferrassie, France (ca. 38,000 BP)
+    cave site in the Dordogne region
+    burial locale containing 8 individuals (2 adults, 6 children)
+     - evidence of group cohesion, territoriality?
+    La Ferrassie 1 - 40-55 ya male with osteoarthritis, infections
+     - altruism?
+ - e.g., Shanidar Cave, NE Iraq
+    ten individuals (Shanidar I through X) dated to ca. 35-65 kya + 100s of Mousterian tools
+    Shanidar 1 - 'Nandy'
+     - male 40-55 years old; suffered from numerous peri-mortem fractures, nerve damage
+    Shanidar IV - 'the flower burial'
+     - pollen from 8 flower species covered / cushioned body of 30-45 year old male
+
+Shanidar I - 'Nandy'
+ - crushing fracture around left eye
+ - right side of body shows injury; right arm ceased to grow
+ - right foot broken
+ - likely nerve damage - rendered him weak or immobile
+ - injuries healed prior to death
+
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      mar7 (AMH Migration etc...)      ===================
+
+
+
+Origins
+
+ - AMH emerge between 200 and 100 kya and are found in:
+    SW Asia by ca. 130 kya
+    East Asia by ca. 110 kya
+    Europe and Australia by ca. 45 kya
+    the Americas by 15 kya
+ - Some debate re: evolutionary mechanism - continuity or replacement?
+ - Evidence argues against the multiregional model
+    earliest fossil remains come from Africa: Omo (195 kya) and Herto (160 kya), both in Ethiopia
+    forms intermediate between AHS and AMH found only in Africa
+    arch. evidence for contemporaneity between AHS and AMH
+    locally derived, regionally specific anatomical traits are of recent origin
+ - mtDNA evidenc ealso argues against the multiregional model
+    modern humans derive from a 200 kya African population (little to no interbreeding with AHS)
+    remember: 8 base pair differences among extant pops., 27-28 base pair differences between Neanderthals and AMH
+ - despite this, debate is ongoing
+
+
+Early AMHs in Africa
+
+ - Homo sapiens idaltu
+ - fossil evidence: Herto (Ethiopia)
+    three skulls, ca. 160 kya
+ - crania: longer, more rugged;
+    volume ~1450 cc
+ - suggests development of AMH complete in Africa by 160 kya, far earlier than anywhere else
+
+
+AMH Cultural Development
+
+ - new tool kits based on antler, bone, and wood + parallel-sided stone blade technology
+    pre-shaped core
+    indiret percussion / punch technique
+    pressure flaking / retouch
+ - blade technology (e.g. Aurignacian in Europe, well developed by 30 kya)
+ - blades (specialized flakes)
+    longer than wide
+    parallel sides
+    increased efficiency
+    decreased waste
+ - fossil evidence for 'complex cognition': Blombos Cave (South Africa)
+    extensive occupational deposits ca. 65 kya
+    numerous blade tools, spear points, and possible bone points
+    wide array of resources consumed: plant foods, fish, shellfish, small mammals
+    earlier occupation at 75 kya has perforated shell items (ornaments) and engraved ochre
+ - sites like Blombos Cave suggest greater cognitive development
+    Steven Mithen (1996) - cognitive fluidity
+     - previously isolated mental domains (environmental, technical, social, etc.) become more fully integrated in AMHs
+     - accordingly, cognition becomes more advanced (e.g., abstract, metaphorical) and more 'fluid'
+ - competitive edge over extant populations
+
+
+Colonization: Australia
+
+ - colonization of Australia by at least 40 kya
+ - use of watercraft, but...
+ - exposed continental shelves (now submerged) connected many offshore islands to the Asian mainland
+ - Archaeological evidence: Willandra Lakes Region (SE Australia, NSW)
+    earliest evidence for cremation
+     - ('Mungo Lady') ca. 40 kya
+    nearby ochre burial of 'Mungo Man'
+     - also ca. 40 kya
+    stone tools dated to ca. 46-50 kya
+
+
+AMH in Europe
+
+ - Upper Paleolithic Period
+ - first AMH found in SW France in the Dordogne region (home of many Neanderthal finds)
+ - anatomically indistinguishable from ourselves, but different from Neanderthals
+ - settled in SE and Central Europe by 40 kya; SW France by 35 kya
+
+
+AMH Tool Technology
+
+ - advancements
+    careful selection of fine-grained toolstones
+    production of standardized parallel-sided blades / refinement of knapping techniques
+    refinement of the burin (chisel) - enabled detailed work on antler and bone
+    groove and splinter technique - enabled production of bone spear points and harpoons
+ - also developed the atalal or spearthrower
+ - microliths: used all over Uerasia; first appear in SE Asia (China) ~30 kya, in use oelsewhere by 25 to 20 kya
+ - distinctive hafted artifacts manufactured on microblades
+ - served as spear barbs, arrow points, small knives and scrapers
+
+
+AMH in Eurasia
+
+ - after 18 kya, increase in movement to the open steppe and tundra plains of northern Eurasia
+    concentrations in river valleys
+ - archaeological evidence - Mezhirich (Ukraine)
+    complex of 4 dome-shaped houses made from mammoth skulls, jaws and limb bones, 5 m across
+     - hides and sod used as covering
+     - subterranean entranceways
+ - mammoth bone with inscribed 'map' of region
+ - site dated to 17 kya
+
+
+The First Americans
+
+ - some debate as to when people first arrived in the Americas
+ - could be as early as 30 kya; likely ca. 15 kya
+ - Beringia (landmass linking NE Asia with Alaska)
+    now the Bering Sea
+ - tracking migrating herds of caribou?
+ - ca. 15 kya, much of northern North America covered by ice sheets (blocked access to south)
+ - after 14 kya, sheets melted rapidly which would have allowed passage
+ - earliest site, oddly, is in Chile (Monte Verde)
+ - Monte Verde (Chile)
+    definitely occupied by 14 kya; possibly as early as 31 kya
+    good preservation of bone and wooden artifacts
+    evidence for plant foods (e.g., potato)
+    mastadon and camel remains also found; exploited small game
+
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      mar9 (ORIGINS AND DEVELOPMENT OF FOOD PRODUCTION)      ===================
+
+
+
+After the Pleistocene
+
+ - geological epoch known as the Holocene
+ - after 11000 BP, we see the following climatic / environmental changes:
+    temperatures, humidity increase
+    glaciers retreat / sea levels rise
+    some plant and animal species disappear (e.g., megafauna in the Americas, Australia and Eurasia)
+ - many groups adapted by broadengin their resource bases
+    e.g., Mesolithic groups in Europe, Near East; Archaic groups in NA
+ - increased use of fish, shellfish, small mammals, seeds, and nuts
+ - later, people began to intensify their exploitation of certain resources
+    e.g., 10,000 BP in the Near East (SW Asia)
+    e.g., 9,000 BP in Mesoamerica
+ - result: some population increases, greater degrees of sedentism
+ - soon, groups began selectively exploiting some plant and animal species
+ - this marks the transition from food collection to food production
+    food production = Neolithic way of life
+
+
+Origins and Consequences of Food Production
+
+ - What is Food Production?
+    systematic interference with growth of a food supply
+    increase in energy, but in some cases less land
+ - Two interactive processes (consequences)
+    changes in plant and animal physiology
+    changes in human lifeways
+ - Systematic interference in plants...
+    seeds become larger
+    higher yield per unit area
+    loss of natural seed-dispersal mechanisms; tougher rachis in wheat, barley and corn
+    crop harvested more successfully
+ - Definitions: Horticulture, Agriculture and Pastoralism
+    Dependence on cultivation and/or animal husbandry for a majority of diet
+ - Horticulture
+    cultivation of plants with simple (hand) tools
+    minimal interference with land and water
+    minimal animal husbandry
+ - Agriculture
+    draft animals
+    fertilization
+    irrigation
+ - Pastoralism
+    dependence of animal husbandry for survival
+ - changes in human lifeways (material)
+    harvesting - new tools
+    processing - new tools
+    storage - 'container revolution'
+     - stockpiling of food for leaner months
+ - changes in human iifeways (social)
+    organization of labour
+    leadership and co-ordination
+    sedentism - differential access to resources
+    villages - political and economic autonomy
+ - important: no 'one person' invented agriculture
+ - complicated set of precesses
+ - subject of numerous theories / models
+ - environmental change:
+    Oasis Model (Childe 1928)
+    increased aridity in SW Asia at close of Pleistocene
+    humans and animals sought out 'oases' where plants thrived
+     - humans 'naturally' tended to these resources
+    Braidwood (1973) sought to test model
+ - Increased Specialization:
+    Nuclear Zone of 'Hilly Flanks' model
+    Braidwood (1948)
+    
+    riparian (floodplain) and upland areas home to wild ancestors of domesticates, not lowland 'oases'
+    groups became proficient at exploiting these resources
+     - began to experiment and manipulate plants / animals
+ - Sedentism and Pop. increase:
+    Marginal Zone Model
+    (Binford 1971; Flannery 1971)
+
+    groups pushed to marginal areas due to pop. pressure will experiment with domestication
+    essentially a resource stress model
+ - Social pressure to Generate Surpluses
+    (Bender 1978)
+
+    changes in social systems required more intensive production
+    needed to fulfill social and political obligations (e.g., paying of tribute)
+
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      mar14 (ANCIENT NORTH AMERICA)      ===================
+
+
+
+Recall
+
+ - Colonization of NA after 15 kya
+    earliest groups known as Paleoindians
+ - ca. 10 kya in NA: broad spectrum economies
+    'Archaic Period' populations
+    h&g; small mammals, fish, seeds and nuts
+
+
+ENA - Introduction
+
+ - Major periods in ENA archaeology
+    Paleoindian 10,000 - 8000 BC
+    Archaic 8,000 - 2000 BC
+    Early Woodland 2000 BC - AD 1
+    Middle Woodland AD 1 - 500
+    Late Woodland (NE) AD 500 - contact
+    Mississippian (SE) AD 500 - contact
+
+
+Early Woodland
+
+ - After 2000 BC, we see the following developments in ENA
+    Increased sedentism / decreased mobility
+    Increased reliance on plant foods (Midwest)
+    Pottery
+    Increased social complexity
+    More elaborate burial mound construction
+    More elaborate inter-regional exchange
+
+
+Eastern Agricultural Complex
+
+ - Plants in the EAC include squash and gourd, sunflower, marsh elder, and goosefoot
+    all had edible seeds, either oily (sunflower, marsh elder) or starchy (goosefoot, maygrass knotweed, little barley)
+ - most EAC plants thrive in open, disturbed habitats like river floodplains (occupied by humans since Early Archaic)
+ - Wild rice also likely an important resource in many areas
+
+
+Adena and Hopewell
+
+ - Between 500 BC and AD 400, Adena and Hopewell groups:
+    Built extensive earthworks including mounds
+    Had mortuary rituals involving the use of charnel houses and log-lined tombs
+    Manufactured elaborately-carved pipes, birdstones (atlatl weights)
+ - After AD 1, Hopewell groups:
+    participated in more elaborate inter-regional exchange
+     - Hopewell Interaction Sphere
+    developed a distinctive religious iconography / ideology
+    Began to cultivate maize (after ca. AD 200)
+
+
+The Mississippian Tradition
+
+ - Between AD 500 and European contact, we see the following developments in the Midwest and SE
+    Collapse of Hopewell and the HIS
+    Intensification of food production (maize horticulture)
+    Chiefdom level of social organization (Mississipian Tradition) with six regional variants
+ - Between AD 900 and 1300, we see the:
+    Emergence and decline of 'towns'
+     - e.g., Cahokia, Moundville
+    Construction of platform mounds
+    Southeastern Ceremonial Cult iconography and ideology
+
+
+Cahokia
+
+ - Monk's Mound: four terraces, 5.6 ha, 30 m high
+    more than twice the size of any other mound at Cahokia; focal point for community (region?)
+ - Once supported series of structures (inc. chief's house)
+ - immense plaza immediately to the south
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      mar16 (Origins and Development of Complex Society)      ===================
+
+
+
+What is Complex Society?
+
+According to Chile (1951), Flannery (1972) and others, complex societies are characterized by suite of archaeological indicators, including:
+    Writing
+    Metallurgy
+    Predictive sciences
+    Large population
+    Social stratification
+    Occupational specialization
+    Monumental architecture and works
+
+
+Indicators - Writing
+
+ - 'symbols' - present since Upper Paleolithic times
+ - most early writing involves combinations of:
+    pictographs
+    logographs / ideographs
+ - later developments involve:
+    syllabic / alphabetic writing
+ - logographic / ideographic
+    Abstract, formal correspondence between depiction and word
+     - One written symbol for each word or phrase in vocabulary
+    Characters stand for meanings, not sounds
+ - Syllabic / Alphabetic
+    Syllabic - written symbol for each syllable
+     - examples: cuneiform and hieroglyphics use a combination of logographs and syllabics
+    Alphabetic - written symbol for each vowel and consonant
+     - greek alphabet
+     - roman alphabet
+
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      mar21 (Complex Society in SW Asia and Egypt)      ===================
+
+
+
+Mesopotamia
+
+ - alluvial plain around the Tigris and Euphrates Rivers
+ - encompasses much of modern-day Iraq and Syria
+
+
+Environmental Context
+
+ - low rainfall: water comes mainly from Tigris and Euphrates
+ - dramatic spring floods: silt (chokes canals)
+ - plain is flat & poorly drained: salinization (salt build-up)
+ - wheat, barley, lentils
+ - sheep, goats, cattle
+
+
+Early Settlement
+
+ - plain settled during the Formative Period (5500 - 4500 BC) by 'Ubaid culture
+    farming settlements of 2-10 ha; 2 tier settlement hierarchy (villages, towns) by 4000 BC
+    rectangular, mud brick homes; growth around temples
+    extensive irrigation, development of potter's wheel
+    rapid growth by ca. 4500 BC; world's first cities
+
+
+Early City States
+
+ - Early City-States Period (4500-3100 BC). e.g. Uruk, Eridu, Ur
+    population growth - 50,000+ people by 3100 BC
+    9 km long wall, 250 ha settlement by 3100 BC
+    tightly-packed houses, alleyways, courtyards, workshops
+    Focal points - ziggurat complexes, temples
+    class-based hierarchy; craft specialization (districts in Eanna), metallurgy
+    writing by ca. 3500 BC (cuneiform)
+    expansion / colonization northward: trade networks
+
+
+Sumerian Civilization (3100 - 2334 BC)
+
+ - city-state based economic system (e.g. Eridu, Uruk, Ur)
+    trade links with Egypt, Anatolia, and Indus valley by ca. 3000 BC
+ - need for raw materials: ore, soapstone, timber, grain
+    easily moved along rivers, coastlines; overland by caravans
+ - bronze - Syria ca. 3000 BC; imporved agricultural technologies, yields (surpluses)
+ - with increases in food production + trade and exchange come...
+    greater degrees of militarism
+    greater degrees of social stratification
+     - e.g. Royal Cemetery at Ur
+
+
+Royal Cemetery at Ur
+
+ - dates to ca. 2600-2100 BC
+ - excavated by Leonard Woolley (British Museum) 1927-1928
+ - 1850 burials; 16 'royal tombs'
+    kings and queens + sacrificed attendants
+ - 'Standard of Ur'
+    wooden box with shell, lapis lazuli inlays
+    depicts battle scenes + feasts
+
+
+Egyptian Civilization (5000-30 BC)
+
+ - Predynastic
+    5000-3100 BC
+ - Dynastic
+    3100-30 BC
+
+
+Environmental Context
+
+ - Nile River: low rainfall but predictable (spring-summer) flooding
+ - use of 'passive' irrigation (e.g. dikes, basins)
+    soil salinity not really a concern
+ - Nile environments more 'steppe' than desert through Predynastic Period
+
+
+Predynastic Period (5000-3100 BC)
+
+ - simple farming villages tethered to Nile
+ - gradual emergence of low-level chiefdoms
+    disparity in trade, food surpluses, etc...
+    Incipient city-states (taxes, fortifications, elite burial practices)
+ - early hieroglyphic writing
+ - Emergence of 3 kingdoms in Upper Egypt ca. 3300 BC
+    Nagada, Nekhen (Hierakonpolis) and This (Abydos)
+    Precursor to unification (proto-kingdom)
+ - greater contact with SW Asia, Arabia (e.g. cylinder seals, gold)
+ - military conquest (unification) by 3100 BC
+    King Narmer (Menes)
+
+
+Early Dynastic Period (3100-2575 BC)
+
+ - Unification / consolidation of Lower and Upper Egypt under Narmer (Menes)
+ - Emergence of:
+    Pharaonic 'god-king'
+    Centralized bureaucracy (capital at Memphis)
+    Scribes - cursive hieroglyphic script
+
+
+Old Kingdom (2575-2134 BC)
+
+ - Full state-level society, e.g. 20,000+ army, differential mortuary practices; strict social hierarchy
+ - urbanization and monumental architecture (corvee labour)
+    Saqqara (Menphis) - Djoser I ca. 2650 BC
+    Giza complex - Khufu ca. 2528 BC
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      mar23 (Complex Society in South and East Asia)      ===================
+
+
+
+Harappan Civilization
+
+Environmental Context
+ - Indus River Valley - Eastern Pakistan / Western India
+    total length is 3200km
+ - July-Sept. floods = massive silt deposits (capped sites)
+    similar to Mesopotamia
+ - Village settlements tethered to river by ca. 3000 BC; widespread irrigation by 2500 BC
+
+Early Stage (ca. 3200 - 2800 BC)
+ - Walled towns (defense, flood control)
+ - Lowland - Highland (Baluchistan) symbiosis
+    metals, timber, semiprecious stones
+    transhumance (goats and sheep)
+ - Rapid transition to complexity in lowlands after 2800 BC
+    population aggregations
+    material culture becomes more uniform
+     - Tied to Sumerian trade? Indigenous development?
+
+Mature Stage (ca. 2500 - 2000 BC)
+ - Territorial state (1.3 million km^2) with five major, heavily urbanized cities
+ - Best known are Mohenjo-daro and Harappa
+    centralized planning - cities laid out on grid system
+    emphasis on hygiene (e.g. drainage systems, bathhouses)
+    public buildings, but few palaces and ostentatious tombs
+
+Mohenjo-daro
+ - First constructed ca. 2600 BC; rebuilt 9 times
+ - Major admin. centre; population of 35,000+
+ - Two parts: Citadel and Lower City (largely unexcavated)
+    Citadel
+     - elevated, fortified (walled)
+     - notable structures: Great Bath, 'Great Granary', Pillared Assembly Hall (court)
+
+Mohenjodaro - Great Bath
+ - large, brick-lined basin sealed with mortar and bitumen
+ - ringed by pillared gallery
+ - large well (adjacent) supplied water
+ - 'sacred' or 'secular' use?
+
+Mohenjo-daro - Great Granary
+ - 50x27 m in extent, mud-brick foundation
+ - 27 square blocks accessed by corridors
+ - no evidence to support use as granary
+    could be large public building
+
+Record Keeping and the Indus Script
+ - standardized system of weights and measures
+ - cylinder seals with logographic script
+    400-500 symbols, but few (max 26) used at any one time
+    not yet deciphered
+
+Government
+ - No evidence for elite lifestyles (e.g. no monuments)
+ - Lack of differential mortuary practices
+ - Equitable distribution of wealth
+
+Decline (ca. 1700 BC)
+ - Dispersal into smaller settlements; material culture more diverse
+ - Cause: Environmental Collapse?
+    change in river flow (inundation) + soil salinity
+    deforestation
+ - Cause: Invasion?
+    raiders from west or east Asia (lack of evidence)
+
+
+
+Complex Society in China
+
+3000 BC - AD 120
+ - Chiefdoms    3000 - 2200 BC
+    Longshan
+ - States       2200 - 221 BC
+    Xia, Shang and Zhou - the 'Three Dynasties'
+ - Empires      221 - 
+............
+............
+
+Road to Complexity
+ - horticulture / agriculture based on millet
+ - early evidence in Yello River Valley, North China ca. 6500 BC
+ - Yangshao Culture (ca. 4800 - 3200 BC)
+    Terraced villages
+    Egalitarian, semi-sedentary, mixed economies
+
+Chiefdoms
+ - Longshan (Lung-shan) ca 3000 - 2200 BC
+    greater social complexity (e.g. elite burials); fortified towns
+    technological innovations / craft specialization
+     - copper metallurgy, potter's wheel, rammed-earth walls (hang-t'u)
+    Origins of divination ceremony (Scapulimancy)
+     - early writing
+
+States
+ - Shang Dynasty (1766 - 1122 BC)
+    seven capitals; middle reaches of the Yellow River
+    1557 BC - central capital established at Ao (Zhengzhou)
+ - City of Ao
+    Royal compound + earthen wall enclosed area of 5 km^2
+     - (10,000 worker, 18 years); temples
+    Flanked by residential quarters and craft workshops
+     - Bronze, bone tool, pottery 'factories'
+ - ca. 1400 BC - capital moved to Anyang (Yin)
+ - rammed earth 'mounds'
+ - royal residences - mud brick, timber frame surrounded by sacrifical burials (animals and humans)
+
+Shang Royal Burials (ca. 1500 - 1200 BC)
+ - 1200 simple burials; 11 deep burial pits (elite)
+ - Elite burials; cross-like pits, ramps, attendants sacrificed, decapitated
+ - Bronze works: sophisticated and elegant; vessels, weapons, horse tack
+    tomb of Fu Hao (king) had 440 bronzes and 600 pieces of jade + 100s of other items
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      mar28 (Complex Society in Mesoamerica)      ===================
+
+
+
+General Evironmental Context
+
+ - Highlands: mountains, lakes and deep river valleys
+    backdrop for inter-regional exchange
+    origins of food production
+ - Lowlands: tropical forests (south) and scrublands (north)
+    virtual absence of large rivers and alluvial plains
+    use of "cenotes" and, occasionally, canals for portable water
+
+
+Economy
+
+ - No domesticated animals
+    no milk, transport, or draft animals
+ - 'Slash and burn' horticulture
+    forests cleared through burning; crop rotations (fallow fields)
+ - maize, bean, and squash + ramon nut (breadnut), rabbit, dear, fish, shellfish
+
+
+
+The Olmec (1500 - 500 BC)
+
+
+ - 'Founding population'; earliest evidence for political complexity
+ - Sophisticated artistic tradition
+ - Two major ceremonial sites: San Lorenzo and La Venta
+
+La Venta (ca. 900 - 400 BC)
+
+ - Complex of mounds, platforms, pyramids, plazas ca. 5 km^2
+ - 34m high 'fluted cone' earthen mound (Tuxtla volcano?)
+
+Olmec Colossal Head La Venta
+
+ - 4 at La Venta
+ - Carved from basalt
+ - Ritually buried
+ - Portrait of ruler / priest?
+
+ - Olmec culture reached its peak by ca. 900 BC
+ - Major inland trade with Highland Mesoamerica by this time
+    Jade, iron ore, obsidian
+    Magnetite mirrors
+    Shark's teeth, Stingray spines
+    Cocoa
+    Pottery
+ - Many sites destroyed (and buried) between ca. 700 - 400 BC
+
+
+
+The Maya (1000 BC - AD 1519)
+
+ - Maya Lowlands (Broader Yucatan Peninsula)
+    Preclassic      1000 BC - 
+    .....................
+    Postclassic
+
+Classic Maya
+AD 300 - 900
+
+ - Independent city-states
+    e.g. sites of Tikal, Palenque, Copan
+    not heavily urbanized
+ - Occupational specializations, e.g. pottery
+ - Monumental architecture, eg. pyramids
+ - Refinements in calendar and writing
+    MAYANS RECORDED HISTORY AS OPPOSED TO DAY TO DAY ACTIVITIES ETC
+
+Tikal (ca. AD 292 - 869)
+
+ - Guatemala, pop. 77,000+ (inc. surrounding area); 16 km^2
+ - 3000 structures, only handful excavated
+    pyramid-temple complex, plazas, ballcourts, causeways
+ - reservoirs for rainfall collection
+    major technological accomplishment
+ - 31 rulers; royal dynasties (inscribed stelae)
+ - Extensive interaction with (and rule over) neighbouring communities
+ - Contact and trade with highlands (Teotihuacan); likely conquered by ruler of Teotihuacan in AD 378
+ - Defeated by Caracol in AD 557; decline as power centre
+
+
+
+Highland Mesoamerica
+
+ - Valley of Mexico
+    Teotihuacan     (city-state, ca. 200 BC - AD 750)
+    Toltec Empire   (ca. AD 650 - 1200)
+    Aztec Empire    (ca. AD 1200 - 1521)
+
+ - Site of Teotihuacan (ca. 200 BC - AD 750)
+    Valley of Mexico, ca. 40 km NE of Mexico City; 21 km^2
+    Massive urbanized city-state:
+     - AD 100           80,000+ inhabitants
+     - AD 200 - 600     150,000+ inhabitants
+    Significant urban planning and monumental architecture
+     - Street of the Dead (focal N-S axis)
+     - 600 pyramids
+     - 500 workshops; 2000 apartment complexes
+     - urban implosion (ethnic barrios)
+     - great marketplace and other plazas
+     - no fortifications
+    Decline after AD 600
+     - Environmental collapse?
+     - revolt?
+    Likely eclipsed by Tula (Toltec Empire) after AD 600
+
+
+
+
+
+
+--------------------------------------------------------
+
+
+
+================      mar30 (Complex Society in South America)      ===================
+
+
+
+End of Term Test
+
+ - 3 to 4 questions per lecture(the important ones)
+ - Significant figure attached to a lecture?
+
+
+Environmental Setting
+
+ - Coast
+    roughly 60 km wide littoral zone; desert with numerous river valleys (e.g. Moche, Viru)
+    concentrations of fish (e.g. anchovies), shellfish and waterfowl
+    Moseley (1975) - maritime foundations for Andean civilization
+     - centralized fishing 'pre-adapted' groups for agriculture and, later, statehood
+ - Mountains
+    varied geography: peaks, valleys, plateaus and basins
+     - grasslands used for grazing llamas and alpacas
+    potatoes, maize, quinoa domesticated after 1800 BC
+ - Lowland / Highland Interaction
+    salt, fish, seaweed traded with various crops
+
+
+Early Horizon (900 - 200 BC)
+
+ - Chavin culture - lowlands and highlands
+    'religious empire' (unifying force)
+ - Chavin Art Style; site of Chavin de Huantar
+    multiple media (pottery, architecture, textiles)
+    sophisticated, difficult to 'read'
+     - contour rivalry
+     - notable objects: Lanzon, Stela Raimundi, Obelisk Tello
+
+
+Chavin de Huantar
+
+ - prominence ca. 900 BC, decline ca. 600 BC
+ - Central Andes (highland Peru); 50 ha.
+ - 2000-3000 people
+ - U-shaped ceremonial complex with 2 low platform mounds
+    hollow 'honeycomb' of passages and rooms
+    elaborate carvings, e.g. human-jaguar hybrid Lanzon God
+
+
+Early States (200 BC - AD 700)
+
+ - population increases to 4 or 5 million (from ~200,000)
+ - large cities, standing armies, stratification emerge
+ - complex irrigation systems
+ - sophisticated ceramic, metallurgical and textile arts
+ - well illustrated by the Moche and Nasca states
+
+
+Moche (northern coastal Peru)
+
+ - ca. AD 100 to 800
+ - known for their ceremonial complexes, monumental architecture, irrigation systems, fine pottery, cemeteries
+ - notable features: adobe brick temples of Huaca del Sol, Huaca de la Luna near Trujillo
+ - differential mortuary practices - royal cemetery for elite (e.g. Lord of Sipan)
+    foun dintact in 1987
+    1200 pieces of gold and precious stones
+    two young concubines, three guards
+    ceremonial goblets, necklaces, bracelets, earrings, etc...
+ - specialized ceramics
+    e.g. Moche portrait jars
+
+
+Late Intermediate (AD 1000 - 1476)
+
+ - Northern Peru
+    Sican State
+    Chimu Empire
+
+
+Chimu Empire
+
+ - emerged from Moche Civilization
+ - Capital: Chan Chan, ca. AD 850 - 1470
+    Centralized and urban, 20 km^2; pop. 30,000+
+    10 large ciudadelas (walled enclosures with residential complexes, storehouses, temples, burial tumuli of rulers)
+    intricately carved walls some 10m high
+ - roads (multiple urbanzied centres)
+
+
+Late Horizon (AD 1476 - 1534)
+
+ - Inca Empire 9Tawantinsuyu: Land of the Four Quarters)
+    usurped Chan Chan as power centre in 1460s
+    Columbia to Chile (centred in Highland Peru)
+     - 4,000 km long tract
+    10 million people
+
+
+Tawantinsuyu: Inca Empire
+
+ - highly stratified and centralized (centre in Cuzco)
+ - bureaucracy (Mit'a [labour] tax)
+ - monumental architecture
+ - NO WRITING
+ - extensive road network (40,000 km)
+    runners, storehouses
+
+
+
+
+
+
